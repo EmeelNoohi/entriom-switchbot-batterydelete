@@ -8,7 +8,7 @@ Open-source mod to replace 4×AA batteries in SwitchBot smart lock with supercap
 - `exports/` → Ready-to-print STL files
 
 ## Detailed write-up & installation guide
-https://www.entriom.com/posts/batterydelete/ (update once live)
+https://www.entriom.com/posts/batterydelete/
 
 Feel free to fork, build, modify. Feedback, issues, PRs welcome!
 
